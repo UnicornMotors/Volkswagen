@@ -25,3 +25,7 @@ sch: https://www.napaonline.com/en/search?text=30%20mm%20socket&referer=v2
 index:
 - https://www.homedepot.com/p/TEKTON-3-4-in-Drive-x-30-mm-12-Point-Socket-SHD32330/309831931
 - https://www.lowes.com/pd/TEKTON-Metric-3-4-in-Drive-12-point-30-mm-Intermediate-Socket/5014575547
+
+## type: Impact
+index:
+- https://www.napaonline.com/en/p/NPT619130
