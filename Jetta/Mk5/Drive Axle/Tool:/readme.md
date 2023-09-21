@@ -29,6 +29,7 @@ index:
 - https://www.lowes.com/pd/TEKTON-Metric-3-4-in-Drive-12-point-30-mm-Intermediate-Socket/5014575547
 
 ## 1/2 Drive
+- https://www.napaonline.com/en/p/BK_7745530
 - https://www.napaonline.com/en/p/BK_7769023
 - https://www.napaonline.com/en/p/BK_7760009
 - https://www.autozone.com/ratchets-sockets-and-wrenches/socket/p/duralast-1-2in-drive-30mm-deep-12-point-socket/582077_0_0
